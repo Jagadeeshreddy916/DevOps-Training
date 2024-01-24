@@ -1,0 +1,6 @@
+pipeslines
+   agent any{
+
+   stage checkout(
+
+   }
